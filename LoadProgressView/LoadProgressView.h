@@ -2,8 +2,8 @@
 //  LoadProgressView.h
 //  ProgressView
 //
-//  Created by zhao on 16/9/18.
-//  Copyright © 2016年 zhaoName. All rights reserved.
+//  Created by lin on 16/10/29.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //  加载进度条
 
 #import <UIKit/UIKit.h>
