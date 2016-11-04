@@ -2,7 +2,7 @@
 //  CircleProgressView.h
 //  ProgressView
 //
-//  Created by 林理刚 on 16/10/29.
+//  Created by lin on 16/10/29.
 //  Copyright © 2016年 林理刚. All rights reserved.
 //  正常的圆形进度条
 
