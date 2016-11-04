@@ -2,8 +2,8 @@
 //  ColorProgressView.h
 //  ProgressView
 //
-//  Created by zhao on 16/9/18.
-//  Copyright © 2016年 zhaoName. All rights reserved.
+//  Created by lin on 16/10/29.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //  颜色进度条 根据滑动的位置不同返回不同的颜色
 
 #import <UIKit/UIKit.h>
