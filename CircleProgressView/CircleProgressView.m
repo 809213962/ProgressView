@@ -2,8 +2,8 @@
 //  CircleProgressView.m
 //  ProgressView
 //
-//  Created by zhao on 16/9/13.
-//  Copyright © 2016年 zhaoName. All rights reserved.
+//  Created by lin on 16/10/29.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //  正常的圆形进度条
 
 #import "CircleProgressView.h"
